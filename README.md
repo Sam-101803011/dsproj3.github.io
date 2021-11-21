@@ -41,21 +41,35 @@ Admin can announce notice also.
 
 
 
+## Importance
+# 1. Improves The General Performance Of Students:
+
+For students to come out with good grades, the focus is highly needed. With this school administration software, students are able to use their precious time for relevant things which is studying rather than keep track of their records to make sure things are intact. Moreover, fear of losing important records to manual management is completely off the line with the help of this software.
+
+
+
+# 2. It helps Simply And Streamlines All Task:
+
+As a teacher, keeping track of all the activities done by each student is never easy and inefficient. But with this online school management software, teachers are able to keep track of each student work and what is yet to be done. In most software, there is a dashboard and a single screen display to make things even easier and more efficient.
+
+
+
+## 3. Can Be Accessed By All Parties Involved:
+
+Gone are the days when parents know little to nothing about what their child or ward does at school. This open source school management system has made it possible for parents to have access to their children's school activities, assignments, attendance, and other relevant information just by using the software.
+
+
+## 4. Helps To Keep Track Of All Students:
+
+School activity goes beyond the wall of the classrooms. There are other activities like sports, interaction, and other extracurricular activities and all these needs proper documentation. This management software has features that see to that and make sure the record of each student is intact.
+
+
+
+## 5. Reduction Of Human Labour, Papers and Workload:
+
+The cost incurred from employing staff to manage the activities of a school is an additional cost that shouldn't be if you decide to make use of this new technology. With this student management system, your number of staffs, excessive buying of writing materials will be minimal and functionality will improve.
+
+
 ## Drawbacks
 - On update page of teacher/student you must have to update password.
-- Anyone can become Admin
-
-## CHANGES REQUIRED FOR CONTACT US PAGE
-- In settins.py file, You have to give your email and password
-```
-EMAIL_HOST_USER = 'youremail@gmail.com'
-EMAIL_HOST_PASSWORD = 'your email password'
-EMAIL_RECEIVING_USER = 'youremail@gmail.com'
-```
-- Login to gmail through host email id in your browser and open following link and turn it ON
-```
-https://myaccount.google.com/lesssecureapps
-```
-
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
+- Anyone can become Admin.
