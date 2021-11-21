@@ -73,3 +73,6 @@ The cost incurred from employing staff to manage the activities of a school is a
 ## Drawbacks
 - On update page of teacher/student you must have to update password.
 - Anyone can become Admin.
+
+## Live Link
+http://ssehgal.pythonanywhere.com/
